@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import { Plus, X, ChevronDown, ChevronRight, CheckCircle2, Circle, Trash2, FileText, Check } from 'lucide-react';
+import { Plus, X, ChevronDown, ChevronRight, CheckCircle2, Circle, Trash2, FileText } from 'lucide-react';
 import confetti from 'canvas-confetti';
 
 // Types
